@@ -1,0 +1,20 @@
+{
+  "name": "test.dusty",
+  "authors": [
+    "Alexandr Shleyko <dusty@yandex-team.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "^7.0.0"
+  }
+}
