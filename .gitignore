@@ -1,2 +1,4 @@
 bower_components
 .sass-cache
+scss/*.css
+scss/*.css.map
